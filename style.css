@@ -14,4 +14,8 @@ h1{
 }
 .myheader{
     position: relative;
+    height: 700px;
+}
+.list-soc{
+    margin-bottom: 15px;
 }
