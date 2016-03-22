@@ -1,5 +1,5 @@
 header {
-    background: url("./images/blue3.jpg") no-repeat center fixed;
+    background: url("./images/blue3.jpg") no-repeat center;
     background-size: cover; 
     text-align: center;
     padding-top: 60px;
@@ -14,8 +14,46 @@ h1{
 }
 .myheader{
     position: relative;
-    height: 700px;
+    height: 500px;
 }
 .list-soc{
     margin-bottom: 15px;
+}
+.myimg1{
+    height: 360px;
+    width: 200%;
+}
+.myimg{
+    height: 240px;
+    width: 200%;
+}
+
+#about{
+    text-align: center;
+    background:  url("./images/desk2.jpg") no-repeat center fixed;
+    font-size: xx-large;
+    color: grey;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#portfolio{
+    text-align: center;
+    background: url("./images/desk.jpg") no-repeat center fixed;
+    
+}
+
+#contact{
+    background-color: darkorange;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+footer{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: medium;
+    background-color: orange;
 }
